@@ -41,12 +41,35 @@
 VIDEO BLOG (VLOG) to UTMDigital Open Day
 
 
+### Reflection
+
+My opinion
+
 ## Assignment 2
 POSTER PPG Industry Talk 1
+
+[SECP1513 ASSIGNMNET 2.pdf](https://github.com/user-attachments/files/24428797/SECP1513.ASSIGNMNET.2.pdf)
+
+
+### Reflection
+
+I think
 
 
 ## Assignment 3
 ACADEMIC WRITING Project Management and System Development
 
+[SECP1513 ASSIGNMENT 3.pdf](https://github.com/user-attachments/files/24428795/SECP1513.ASSIGNMENT.3.pdf)
+
+
+### Reflection
+
+I
+
+
+## Assignment 4
+
+
+### Reflection
 
 ## Assignment 4
