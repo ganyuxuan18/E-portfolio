@@ -43,7 +43,12 @@ VIDEO BLOG (VLOG) to UTMDigital Open Day
 
 ### Reflection
 
-My opinion
+From the industry visit and talk, I gained a better understanding of Oracle Academy and how digital technologies are applied into real-world industries. At the same time, I also learned the importance of networking and involvement in professional presentations. The experience gave me some ideas on how to create engaging video blogs and present information clearly to the audience.
+
+For improvement, it would be helpful if the Open Day included more hands-on activities or interactive sessions for a deeper understanding. A guided tour or demo stations could make the visit more engaging and fascinating.
+
+From my view, I realized that documenting events through a vlog requires planning, clear narration and capturing key moments. This opportunity helps me to enhance the related skills that can be applied in future assignments and professional 
+
 
 ## Assignment 2
 POSTER PPG Industry Talk 1
@@ -53,7 +58,12 @@ POSTER PPG Industry Talk 1
 
 ### Reflection
 
-I think
+The industry talk helped me understand key concepts in Data Analytics, Infrastructure, and SAP. I learned how to summarize technical information into a visual format with creativity and well-planning, which improved my ability to present complex ideas concisely.
+
+For future talks, it would be useful to have more examples of different scope of case studies from real companies to show practical applications. For instance, providing a summary sheet after the session would also help students retain information better and a deeper understanding.
+
+In my opinion, creating the poster allowed me to practice visual communication and design skills. I learned that combining visuals and text effectively can make technical information easier to understand.
+
 
 
 ## Assignment 3
@@ -64,11 +74,57 @@ ACADEMIC WRITING Project Management and System Development
 
 ### Reflection
 
-I
+The talk by Ts. Hj Abdul Alim Bin Abdul Muttalib helped me understand how project management and system development are applied in professional settings to increase the effectiveness and productivity. From the talk, I learned about the importance of planning, team collaboration and systematic implementation in technology projects.
+
+There are a few suggestions like Including a short workshop or simulation of a project management scenario could help students apply the concepts in practice. Besides, providing templates for project documentation could also be beneficial.
+
+ On the other hand, writing the academic report improved my technical writing skills and my ability to connect theory with practice. I also realized the importance of critical thinking in evaluating and applying knowledge to real-world projects.
+
 
 
 ## Assignment 4
+POSTERS on Industry Talk Webinar about the Overview of ICT Job
+
+[SECP1513 ASSIGNMENT 4 Poster 1.pdf](https://github.com/user-attachments/files/24690823/SECP1513.ASSIGNMENT.4.Poster.1.pdf)
 
 
 ### Reflection
 
+Through this assignment, I gained valuable insights into the ICT industry by learning directly from professionals working at Clarity Techworks Sdn. Bhd. and AirAsia. Listening to the speakers’ real-world experiences helped me better understand the variety of roles and employers’ expectations including specific skills, knowledge and attitudes. This allowed me to apply what I have learned in my studies with the actual industry practices.
+
+By designing posters based on the industry talks also helped me improve my ability to identify key information, summarize important points and present them in a clear, creative and visually organized manner. At the same time, I learned how to filter relevant content from lengthy discussions and transform it into concise references. It enhanced my communication skills, especially in conveying technical and career-related information effectively.
+
+Overall, this assignment increased my awareness of industry expectations and motivated me to start preparing early for my future career. I also understand the importance of continuous learning, adaptability and hands-on experience in a rapidly evolving technology industry.
+
+
+## PC Assemble
+
+### Reflection
+
+From the PC Assemble activity, I gained hands-on experience in identifying computer hardware components and understanding the correct procedures for disassembling and assembling a PC. This activity helped me to apply theoretical knowledge in a practical setting and improved my confidence in handling computer hardware.
+
+ The activity could be improved by providing more time for hands-on practice and allowing each student to assemble a PC individually. By providing clearer step-by-step guidelines or reference materials would also help students follow the procedures more easily.
+
+In my opinion, the PC Assemble activity enhanced my technical skills and increased my awareness of the importance of careful handling and proper maintenance of computer hardware. It also motivated me to learn more about computer systems and hardware-related topics.
+
+
+
+## Design Thinking Project
+
+### Project Report
+
+[SECP Project Report.pdf](https://github.com/user-attachments/files/24690836/SECP.Project.Report.pdf)
+
+
+### Project Video
+
+
+### Project Video Presentation
+
+### Reflection
+
+Through the design thinking project, I learned how to identify real-world problems, understand user needs and develop practical solutions in a structured way. The process helped me to improve my creativity, critical thinking and problem-solving skills. I also noticed that collaboration with peers during assignments improved my teamwork skills and gave me new perspectives on solving problems. This is because working in a team can enhance my communication skills and taught me how to share ideas, give feedback, and collaborate effectively.
+
+The project could be improved by allowing more guidelines for each design thinking stage. The reason for saying this is because additional guidance or examples of successful design thinking projects would also help students better understand how to apply the process effectively.
+
+From my point of view, the design thinking project encouraged me to think from the user’s perspective and be more innovative when solving problems. It increased my confidence in presenting ideas and motivated me to apply creative thinking in future projects and real-life situations.
