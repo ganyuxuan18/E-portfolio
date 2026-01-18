@@ -106,6 +106,12 @@ Overall, this assignment increased my awareness of industry expectations and mot
 
 ## PC Assemble
 
+The PC Assemble was held on 20 November 2025 by conducting a PC Maintenance to demonstrate the correct flow of dissembling and assembling a personal computer to students. After the demonstration, students were given the opportunity to gain hands-on experience by  performing the disassembly and assembly process themselves. At the same time, assistants were present to guide students and provide feedback to ensure that each step was carried out correctly and gain the acknowledgement of assistants about the correct step. 
+
+After that, Quiz 1 was conducted on the same day to ensure the students’ level of understanding of computer hardware within a PC system.
+
+
+
 ### Reflection
 
 From the PC Assemble activity, I gained hands-on experience in identifying computer hardware components and understanding the correct procedures for disassembling and assembling a PC. This activity helped me to apply theoretical knowledge in a practical setting and improved my confidence in handling computer hardware.
