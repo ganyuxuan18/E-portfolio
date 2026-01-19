@@ -94,6 +94,7 @@ There are a few suggestions like Including a short workshop or simulation of a p
 POSTERS on Industry Talk Webinar about the Overview of ICT Job
 
 [SECP1513 ASSIGNMENT 4 Poster 1.pdf](https://github.com/user-attachments/files/24690823/SECP1513.ASSIGNMENT.4.Poster.1.pdf)
+
 [SECP1513 Assignment 4 Section 4 Group 2 Poster 2.pdf](https://github.com/user-attachments/files/24703398/SECP1513.Assignment.4.Section.4.Group.2.Poster.2.pdf)
 
 
