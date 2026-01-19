@@ -38,12 +38,13 @@
 
 ## E-portfolio
 
-[index.html](https://github.com/user-attachments/files/24690892/index.html)
+[[index.html](https://github.com/user-attachments/files/24690892/index.html)](https://ganyuxuan18.github.io/)
 
 
 ## Assignment 1
 VIDEO BLOG (VLOG) to UTMDigital Open Day
 
+https://drive.google.com/file/d/1RF88cp-9pJaDJFXcYk9gVSqbwoRsmASW/view?usp=sharing
 
 ### Reflection
 
@@ -132,8 +133,11 @@ In my opinion, the PC Assemble activity enhanced my technical skills and increas
 
 ### Project Video
 
+https://drive.google.com/file/d/1A4zczDcKSbsfH8f_VCG7vNAxS0aOGVOF/view?usp=sharing
 
 ### Project Video Presentation
+
+https://drive.google.com/file/d/1HeKywxVLuBvuZSwkR7-oJZnCuj7eHtRU/view?usp=sharing
 
 ### Reflection
 
